@@ -5,7 +5,7 @@
         <q-btn flat dense round icon="menu" aria-label="Menu" @click="toggleLeftDrawer" />
       </q-toolbar>
       <div class="q-px-lg q-pt-xl q-mb-md">
-        <div class="text-h3">Inno App</div>
+        <div class="text-h3">Inno Ap</div>
         <div class="text-subtitle1">{{ formattedString }}</div>
       </div>
       <q-img src="statics/mountains.jpg" class="header-image absolute-top" />
